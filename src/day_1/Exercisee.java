@@ -8,5 +8,7 @@ public class Exercisee {
         // git commit -m "new code "
         // git push
 
+        
+        // i pull from githup
     }
 }
