@@ -7,7 +7,16 @@ public class login {
         // git fetch
         // git merge
         // git pull
-// i am written this  from intelige
+
+        // i am written this  from intelige
+
+
+        
+        
+        
+        // this is written from gitHub
+
+
         
          System.out.println(" I am edditing from github page ");
         
