@@ -7,6 +7,9 @@ public class Exercisee {
         // git add .
         // git commit -m "new code "
         // git push
+// this line is written from intellegie
+
+
 
         
         // i pull from githup
