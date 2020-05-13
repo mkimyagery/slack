@@ -6,7 +6,13 @@ public class CreateChannel {
         System.out.println("user is able to create a channel ");
 
 
+
         System.out.println("i am adding new line in intelligie ");
+
+
+        
+        
+        // from github change 
 
     }
 }
